@@ -1,4 +1,6 @@
 # personal situation
+>  ![](/picture/a.jpeg)
+
 
 ## complete shedule
 
