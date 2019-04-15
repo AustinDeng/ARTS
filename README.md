@@ -1,8 +1,9 @@
-# ARTS
+# SARTS
 
-ARTS的含义是: 每周通过四项指标来训练自己
+SARTS的含义是: 每周通过几项指标来训练自己
 
 # 解释
+Systematic:将所做建成体系
 
 Algorithm: 解决一道算法题
 
