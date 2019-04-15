@@ -1,5 +1,6 @@
 # personal situation
->  ![](/Pictures/a.jpeg)
+>  
+![](/Tsand/Pictures/a.jpeg)
 
 
 ## complete shedule
