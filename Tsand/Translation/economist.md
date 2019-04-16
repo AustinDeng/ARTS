@@ -1,1 +1,2 @@
-
+## A Basket of intangibles
+> But not recently. For much of the past decade,value stocks have lagged behind the general market and a long way behind "growth" stocks,their antithesis.Perhaps this is because,as the industrial age gives way to digital age,the intangible assets that increasingly matter are not easy to put a value on.The tangible world is easier.Factories,machines,land and office buildings count as capital assets on a firms'books,because they will generate profits for many years. It is a fairly straightforward business to come up with a value for them:It is what the firm paid.This value is gradually written off (depreciated) over time to reflect wear and tear and obsolescence.
