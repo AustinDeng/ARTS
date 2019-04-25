@@ -2,7 +2,7 @@
 <h3 align="center">Sanjay Ghemawat,Howard Gobioff,and Shun-Tak Leung</h3>
 <h4 align="right">Translator:Tsand</h4>
 <h4 align="right">Begin Time:2019/4/25</h4>
-<h4 align="right">End Time:~~~~</h4>
+<h4 align="right">  End Time:~~~~</h4>
 
 <br>
 
