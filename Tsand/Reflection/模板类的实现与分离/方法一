@@ -1,4 +1,0 @@
-此方法可能只在一定系统上可行
-
-g++ -o a use_template.cpp
-./a
